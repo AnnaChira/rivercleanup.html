@@ -55,4 +55,31 @@ html {
 	background-color: lightgray;
 }
 
-
+h1{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: tahoma;
+}
+h2{
+	color: white;
+	font-size: 25px;
+	font-weight: bold;
+	font-style: tahoma;
+}
+p{
+	color: white;
+	font-size: 20px;
+	font-style: tahoma;
+}
+ul{
+	color: white;
+	font-size: 20px;
+	font-style: tahoma;
+	line-height: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+ul li{
+	list-style: none;
+}

@@ -1,8 +1,7 @@
 $(document).ready(function(){
+	$("p").hide(10);
 	$('#faq').click(function(){
-		$("p").hide(1000);
+		$("p").toggle(1000);
 	});
-	$('#faq').click(function(){
-		$("p").show(1000);
-	});
+
 });
